@@ -1,0 +1,15 @@
+# Default ignored files
+*.bak
+*.diff
+*.iml
+*.lint
+*.lock
+*.new
+*.old
+*.orig
+*.rej
+*.sw[p-z]
+*.tar
+*.tar.gz
+*.tgz
+*~

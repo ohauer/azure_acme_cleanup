@@ -1,0 +1,5 @@
+# ============================
+# vars azure account/zone
+RESOURCE_GROUP=
+ZONE_NAME=
+SUBSCRIPTION=
